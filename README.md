@@ -1,5 +1,5 @@
 <div id="header" align="center">
-### 👋 Welcome on my personal page 👋
+  <h2> 👋 Welcome on my personal page 👋</h2>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
