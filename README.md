@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="color:#4CAF50;">👋 Greetings, Fellow Developers! 👋</h2>
+  <h2 style="color:#4CAF50;">👋 Welcome to my journey! 👋</h2>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
