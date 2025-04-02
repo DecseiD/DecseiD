@@ -2,7 +2,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="itsme" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="itsme.JPG" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hello there... General Keno... No that's another line. 👋</h1>
@@ -29,7 +29,7 @@ This Github was created and updated for the sole purpose os spreading chaos thro
 
 I'm currently preparing for:
 - 🏅 CKA (Certified Kubernetes Administrator)
-- 🛡️ **CompTIA Security+**
+- 🛡️ CompTIA Security+
 
 ### 🧠 What I'm Working On
 
@@ -46,18 +46,13 @@ Linux (Currently SUSE is in the main focus), Containerization, Kubernetes, OpenS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/decseidavid/)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decseidavid&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decseidavid&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=decseidavid)
-
 ### 📁 Projects
 
 - 🚧 [In Progress](#)
 
-### 🌱 Fun Facts
+### 🌱 My superpowers
 
-- 🐶 I have a dog who often “helps” during late-night troubleshooting sessions.
-- 🛠️ I enjoy breaking and fixing things in my homelab. But mostly breaking.
-- 🎧 Music + Udemy training silenced and on 2x speed = 3 times longer learning time and many confusion about why my code is not working.
+- 🐶 I have my dog as my supervisor at home. Very effective. Much help.
+- 🛠️ Breaking and fixing things in my homelab. But mostly breaking.
+- 🎧 Music + Udemy training silenced and on 2x speed 
+(Results: 3 times longer learning time and many confusion about why my code is not working)
