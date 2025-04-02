@@ -1,10 +1,5 @@
 <!-- README.md -->
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="itsme.JPG" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
-</p>
-
 <h1 align="center">Hello there... General Keno... No that's another line. 👋</h1>
 
 ## 👨‍💻 Who am I?
