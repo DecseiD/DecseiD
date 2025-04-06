@@ -11,9 +11,9 @@ Others might consider me as a crazy couch potato who sometimes talks to its Prox
 
 Honestly... maybe all of them is true.
 
-My past experiences include Service-Chain Operations management, Application Administration, Team Coordination, and Cloud Engineering... Or DevOps Engineering. No ones knows what does it include yet it includes everything.
+My past experiences include Service-Chain Operations management, Application Administration, Team Coordination, and Cloud Engineering... Or DevOps Engineering. No one knows what does it include yet it includes everything.
 
-This Github was created and updated for the sole purpose os spreading chaos through my personal experimentation, where I share my little projects, ideas, anguishes and ~~bugs~~ features.
+This Github was created and updated for the sole purpose of spreading chaos through my personal experimentation, where I share my little projects, ideas, anguishes and ~~bugs~~ features.
 
 
 ### 🚀 Career Focus
