@@ -1,53 +1,33 @@
-<!-- README.md -->
+# Hi there, I'm Dávid Décsei 👋
 
-<h1 align="center">Hello there... General Keno... No that's another line. 👋</h1>
+**Data Support and Operation Engineer**
 
-## 👨‍💻 Who am I?
+I am a DevOps and Application Operations professional with over 6 years of experience in the tech industry. I specialize in bridging the gap between cloud infrastructure and big data ecosystems, ensuring high availability, smooth CI/CD pipelines, and robust system reliability. I also have a proven track record of leading medium operations teams, overseeing day-to-day tasks, and managing resources to deliver successful products and services.
 
-I'm David but my friends call me David.
+Currently, I am working at **United Consult Big Data Zrt.**, providing tailored support and operational excellence for various data-centric projects based on team demands.
 
-I consider myself as a passionate IT professional, currently working in the TELCO Cloud domain, blending roles across Linux system administration, DevOps engineering, and operations management.
-Others might consider me as a crazy couch potato who sometimes talks to its Proxmox server while my dog is most likely considering me as his food source and servant...
+### 🛠️ Tech Stack & Skills
+* **Cloud & Infrastructure:** Azure, AWS, Linux
+* **DevOps & Automation:** Terraform, Kubernetes, CI/CD Pipelines, Automation
+* **Monitoring & Reliability:** System Monitoring (Prometheus, Grafana, Jenkins health checks)
+* **Big Data Ecosystems:** Big Data, Cloudera Data Platform (CDP)
+* **Scripting & Integrations:** Python, Bash, Azure Logic Apps, LLM Integrations
 
-Honestly... maybe all of them is true.
+### 💼 Professional Journey
+* **Data Support and Operation Engineer** @ United Consult Big Data Zrt. *(2025 - Present)*
+* **Support Engineer** @ Ericsson *(2023 - 2025)*
+* **SC Operations Manager** @ Deutsche Telekom IT Solutions HU *(2022 - 2023)*
+* **Application Administrator** @ Deutsche Telekom IT Solutions HU *(2020 - 2022)*
+* **Junior Java Developer & DevOps Engineer** @ Green Fox Academy *(2019 - 2020)*
 
-My past experiences include Service-Chain Operations management, Application Administration, Team Coordination, and Cloud Engineering... Or DevOps Engineering. No one knows what does it include yet it includes everything.
+### 📜 Certifications
+* **Cloudera Certified Administrator on premises** (2025)
+* **AWS Certified Cloud Practitioner** (2021)
+* **Microsoft Azure Fundamentals** (2021)
 
-This Github was created and updated for the sole purpose of spreading chaos through my personal experimentation, where I share my little projects, ideas, anguishes and ~~bugs~~ features.
+### 🌍 Languages
+* **Hungarian:** Native
+* **English:** Advanced
 
-
-### 🚀 Career Focus
-
-- Kubernetes, OpenStack, CI/CD, BareMetal, Metal3
-- TELCO Cloud engineering and support
-- Networking and security best practices
-
-I'm currently preparing for:
-- 🏅 CKA (Certified Kubernetes Administrator)
-- 🛡️ CompTIA Security+
-
-### 🧠 What I'm Working On
-
-- Building experimental environments on a Proxmox home lab
-- Automating infrastructure and operations for scalable cloud-native TELCO workloads
-- Fulfilling my role in work as a Cloud Support Engineer and keeping up with everything there
-- Conviencing others that it is definitely application problem...
-
-### 🛠️ Tools & Technologies
-
-Linux (Currently SUSE is in the main focus), Containerization, Kubernetes, OpenStack, Ansible, Terraform, Proxmox, Grafana, and the rest. You know. EVERYTHING.
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/decseidavid/)
-
-### 📁 Projects
-
-- 🚧 [In Progress](#)
-
-### 🌱 My superpowers
-
-- 🐶 I have my dog as my supervisor at home. Very effective. Much help.
-- 🛠️ Breaking and fixing things in my homelab. But mostly breaking.
-- 🎧 Music + Udemy training silenced and on 2x speed 
-(Results: 3 times longer learning time and many confusion about why my code is not working)
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/decseidavid](https://www.linkedin.com/in/decseidavid/)
