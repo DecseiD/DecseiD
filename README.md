@@ -1,4 +1,4 @@
-# Hi there, I'm Dávid Décsei 👋
+# Hi there, I'm Dávid 👋
 
 **Data Support and Operation Engineer**
 
